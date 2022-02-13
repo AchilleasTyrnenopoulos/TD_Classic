@@ -27,17 +27,17 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorBlend:
-        m_Texture: {fileID: -304989904137817584, guid: b17a5d0d0997ea841891d11eb781b929,
+        m_Texture: {fileID: 1115845919093934890, guid: b17a5d0d0997ea841891d11eb781b929,
           type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorByHeight:
-        m_Texture: {fileID: 5483941822401723020, guid: b17a5d0d0997ea841891d11eb781b929,
+        m_Texture: {fileID: -2665181600178762809, guid: b17a5d0d0997ea841891d11eb781b929,
           type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ColorByNormal:
-        m_Texture: {fileID: 6229749405010245450, guid: b17a5d0d0997ea841891d11eb781b929,
+        m_Texture: {fileID: 6666492687317324929, guid: b17a5d0d0997ea841891d11eb781b929,
           type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
@@ -96,6 +96,6 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _Dimension: {r: 40, g: 20, b: 40, a: 0}
+    - _Dimension: {r: 70, g: 20, b: 40, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 1}
